@@ -81,9 +81,6 @@ $RECYCLE.BIN/
 *.userosscache
 *.sln.docstates
 
-# User-specific files (MonoDevelop/Xamarin Studio)
-*.userprefs
-
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -428,23 +425,12 @@ ExportedObj/
 *.csproj
 *.unityproj
 *.sln
-*.suo
-*.tmp
-*.user
-*.userprefs
-*.pidb
 *.booproj
 *.svd
-*.pdb
 *.mdb
-*.opendb
-*.VC.db
 
 # Gradle cache directory
 .gradle/
-
-# Visual Studio cache directory
-.vs/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 /[Aa]ssets/AssetStoreTools*
@@ -467,3 +453,4 @@ ExportedObj/
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/Library/
